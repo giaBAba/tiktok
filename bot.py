@@ -155,9 +155,9 @@ if __name__ == "__main__":
                          
                          
                          
-[✓Admin:dienpro.Code.Kalinux✓]
+[✓Admin:diệnpro-vănngọc-at-suachuanguyenchat-Code.Kalinux✓]
 [✓Bản Tool :Tăng View✓Tiktok]
-[✓Nhóm Zalo:0963304671✓]                      """
+[✓Nhóm Zalo: ip để vào✓]                      """
     print(
         Colorate.Vertical(
             Colors.DynamicMIX((Col.light_blue, Col.purple)), Center.XCenter(txt)
